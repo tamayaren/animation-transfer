@@ -27,5 +27,13 @@
   "bugs": {
     "url": "https://github.com/tamayaren/animation-transfer/issues"
   },
-  "homepage": "https://github.com/tamayaren/animation-transfer#readme"
+  "homepage": "https://github.com/tamayaren/animation-transfer#readme",
+  "dependencies": {
+    "better-queue": "^3.8.12",
+    "chalk": "^5.2.0",
+    "keytar": "^7.9.0",
+    "node-fetch": "^3.3.1",
+    "split2": "^4.2.0",
+    "yargs": "^17.7.1"
+  }
 }
