@@ -1,3 +1,5 @@
 .vs/
 node_modules/
 settings.json
+input.txt
+output.txt
